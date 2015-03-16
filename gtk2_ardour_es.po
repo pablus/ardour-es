@@ -5831,27 +5831,27 @@ msgstr ""
 
 #: engine_dialog.cc:82
 msgid "Midi Device Setup"
-msgstr ""
+msgstr "Configurar dispositivo MIDI"
 
 #: engine_dialog.cc:83 engine_dialog.cc:1999
 msgid "Measure"
-msgstr ""
+msgstr "Medir"
 
 #: engine_dialog.cc:84
 msgid "Use results"
-msgstr ""
+msgstr "Usar resultados"
 
 #: engine_dialog.cc:85
 msgid "Back to settings ... (ignore results)"
-msgstr ""
+msgstr "Volver a configuración (ignorar resultados)"
 
 #: engine_dialog.cc:86
 msgid "Calibrate Audio"
-msgstr ""
+msgstr "Calibrar audio"
 
 #: engine_dialog.cc:90
 msgid "Back to settings"
-msgstr ""
+msgstr "Volver a configuración"
 
 #: engine_dialog.cc:108
 msgid ""
@@ -5862,37 +5862,39 @@ msgstr ""
 
 #: engine_dialog.cc:135
 msgid "Latency Measurement Tool"
-msgstr ""
+msgstr "Herramienta de medición de latencia"
 
 #: engine_dialog.cc:147 engine_dialog.cc:561
 msgid ""
 "<span weight=\"bold\">Turn down the volume on your audio equipment to a very "
 "low level.</span>"
 msgstr ""
+"<span weight=\"bold\">Baja el volumen de tu equipo de audio a un nivel "
+"my bajo.</span>"
 
 #: engine_dialog.cc:156
 msgid "Select two channels below and connect them using a cable."
-msgstr ""
+msgstr "Selecciona dos canales y conéctalos por medio de un cable"
 
 #: engine_dialog.cc:161
 msgid "Output channel"
-msgstr ""
+msgstr "Canal de salida"
 
 #: engine_dialog.cc:169
 msgid "Input channel"
-msgstr ""
+msgstr "Canal de entrada"
 
 #: engine_dialog.cc:204
 msgid "Once the channels are connected, click the \"Measure\" button."
-msgstr ""
+msgstr "Cuando hayas conectado los canales, clica el botón \"Medir\"."
 
 #: engine_dialog.cc:211
 msgid "When satisfied with the results, click the \"Use results\" button."
-msgstr ""
+msgstr "Cuando estés conforme con los resultados, clica el botón \"Usar resultados\"."
 
 #: engine_dialog.cc:226 engine_dialog.cc:2107 engine_dialog.cc:2117
 msgid "No measurement results yet"
-msgstr ""
+msgstr "Aún no hay resultados de la medición"
 
 #: engine_dialog.cc:236 route_params_ui.cc:105
 msgid "Latency"
@@ -5900,7 +5902,7 @@ msgstr "Latencia"
 
 #: engine_dialog.cc:351
 msgid "Audio System:"
-msgstr ""
+msgstr "Sistema de audio:"
 
 #: engine_dialog.cc:394
 msgid "Driver:"
@@ -5908,7 +5910,7 @@ msgstr "Driver:"
 
 #: engine_dialog.cc:400
 msgid "Device:"
-msgstr ""
+msgstr "Dispositivo:"
 
 #: engine_dialog.cc:405 engine_dialog.cc:496 sfdb_ui.cc:151 sfdb_ui.cc:341
 #: sfdb_ui.cc:346
@@ -5921,11 +5923,11 @@ msgstr "Tamaño del buffer:"
 
 #: engine_dialog.cc:424
 msgid "Input Channels:"
-msgstr ""
+msgstr "Canales de entrada:"
 
 #: engine_dialog.cc:435
 msgid "Output Channels:"
-msgstr ""
+msgstr "Canales de salida:"
 
 #: engine_dialog.cc:446
 msgid "Hardware input latency:"
@@ -5941,13 +5943,15 @@ msgstr "Latencia de salida del hardware:"
 
 #: engine_dialog.cc:470
 msgid "MIDI System"
-msgstr ""
+msgstr "Sistema MIDI"
 
 #: engine_dialog.cc:488
 msgid ""
 "The %1 audio backend was configured and started externally.\n"
 "This limits your control over it."
 msgstr ""
+"El backend de audio de %1 se ha configurado y arrancado externamente.\n"
+"Esto limita el control que tienes sobre éste."
 
 #: engine_dialog.cc:543
 msgid ""
@@ -5955,6 +5959,9 @@ msgid ""
 "\n"
 "Latency calibration requires a working audio interface."
 msgstr ""
+"Falló al arrancar o conectar el motor de audio.\n"
+"\n"
+"La calibración de latencia requiere una interfaz de audio operativa."
 
 #: engine_dialog.cc:549
 msgid ""
@@ -5962,10 +5969,13 @@ msgid ""
 "\n"
 "Latency calibration requires playback and capture"
 msgstr ""
+"La configuración de audio seleccionada es sólo captura o sólo reproducción.\n"
+"\n"
+"La calibración de latencia requiere ambas reproducción y captura"
 
 #: engine_dialog.cc:630
 msgid "MIDI Devices"
-msgstr ""
+msgstr "Dispositivos MIDI"
 
 #: engine_dialog.cc:636
 msgid "Device"
@@ -5973,20 +5983,20 @@ msgstr "Dispositivo"
 
 #: engine_dialog.cc:638
 msgid "Hardware Latencies"
-msgstr ""
+msgstr "Latencias de hardware"
 
 #: engine_dialog.cc:679
 msgid "Calibrate"
-msgstr ""
+msgstr "Calibrar"
 
 #: engine_dialog.cc:761
 msgid "all available channels"
-msgstr ""
+msgstr "Todos los canales disponibles"
 
 #: engine_dialog.cc:954
 #, c-format
 msgid "%u samples"
-msgstr ""
+msgstr "%u muestras"
 
 #: engine_dialog.cc:1001
 #, c-format
