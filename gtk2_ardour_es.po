@@ -1767,7 +1767,7 @@ msgstr "Mostrar barras de herramientas"
 
 #: ardour_ui_ed.cc:197
 msgid "Show more UI preferences"
-msgstr ""
+msgstr "Mostrar más preferencias de la IU"
 
 #: ardour_ui_ed.cc:199 mixer_ui.cc:1900 mixer_ui.cc:1906
 msgid "Window|Mixer"
@@ -5869,8 +5869,8 @@ msgid ""
 "<span weight=\"bold\">Turn down the volume on your audio equipment to a very "
 "low level.</span>"
 msgstr ""
-"<span weight=\"bold\">Baja el volumen de tu equipo de audio a un nivel "
-"my bajo.</span>"
+"<span weight=\"bold\">Disminuye el volumen de tu equipo de audio hasta un nivel "
+"muy bajo.</span>"
 
 #: engine_dialog.cc:156
 msgid "Select two channels below and connect them using a cable."
@@ -5886,11 +5886,11 @@ msgstr "Canal de entrada"
 
 #: engine_dialog.cc:204
 msgid "Once the channels are connected, click the \"Measure\" button."
-msgstr "Cuando hayas conectado los canales, clica el botón \"Medir\"."
+msgstr "Cuando hayas conectado los canales, pulsa el botón \"Medir\".
 
 #: engine_dialog.cc:211
 msgid "When satisfied with the results, click the \"Use results\" button."
-msgstr "Cuando estés conforme con los resultados, clica el botón \"Usar resultados\"."
+msgstr "Si estás conforme con los resultados, pulsa el botón \"Usar resultados\"."
 
 #: engine_dialog.cc:226 engine_dialog.cc:2107 engine_dialog.cc:2117
 msgid "No measurement results yet"
@@ -8925,11 +8925,11 @@ msgstr ""
 
 #: rc_option_editor.cc:886
 msgid "Show Video Export Info before export"
-msgstr ""
+msgstr "Mostrar información antes de exportar"
 
 #: rc_option_editor.cc:887
 msgid "Show Video Server Startup Dialog"
-msgstr ""
+msgstr "Mostrar diálogo de arranque de servidor de video"
 
 #: rc_option_editor.cc:888
 msgid "Advanced Setup (remote video server)"
@@ -11094,15 +11094,15 @@ msgstr ""
 
 #: session_option_editor.cc:261
 msgid "Show Midi Tracks"
-msgstr ""
+msgstr "Mostrar pistas MIDI"
 
 #: session_option_editor.cc:268
 msgid "Show Busses"
-msgstr ""
+msgstr "Mostrar buses"
 
 #: session_option_editor.cc:275
 msgid "Include Master Bus"
-msgstr ""
+msgstr "Incluir bus master"
 
 #: session_option_editor.cc:280
 msgid "Button Area"
@@ -12263,15 +12263,15 @@ msgstr "Colorear regiones con el color de su pista"
 
 #: theme_manager.cc:69
 msgid "Show waveform clipping"
-msgstr ""
+msgstr "Mostrar clipping en la onda"
 
 #: theme_manager.cc:71
 msgid "Waveforms color gradient depth"
-msgstr ""
+msgstr "Gradiente de color de las ondas"
 
 #: theme_manager.cc:73
 msgid "Timeline item gradient depth"
-msgstr ""
+msgstr "Gradiente de color de la línea de tiempo"
 
 #: theme_manager.cc:74
 msgid "All floating windows are dialogs"
