@@ -1814,7 +1814,7 @@ msgstr "Maximizar Editor"
 
 #: ardour_ui_ed.cc:193
 msgid "Maximise Mixer Space"
-msgstr ""
+msgstr "Maximizar Mezclador"
 
 #: ardour_ui_ed.cc:194
 msgid "Show Toolbars"
@@ -1838,7 +1838,7 @@ msgstr ""
 
 #: ardour_ui_ed.cc:204
 msgid "Reattach All Tearoffs"
-msgstr ""
+msgstr "Reintegrar las barras dispersas"
 
 #: ardour_ui_ed.cc:206 midi_tracer.cc:45
 msgid "MIDI Tracer"
@@ -3028,7 +3028,7 @@ msgstr ""
 #: editor.cc:2990 editor.cc:3691 editor.cc:3762 midi_channel_selector.cc:156
 #: midi_channel_selector.cc:394 midi_channel_selector.cc:430
 msgid "All"
-msgstr "Todos"
+msgstr "Todas"
 
 #: editor.cc:3194
 msgid "Smart Mode (add Range functions to Grab mode)"
@@ -3108,7 +3108,7 @@ msgstr "Encoger pistas"
 
 #: editor.cc:3212
 msgid "Number of visible tracks"
-msgstr ""
+msgstr "Número de pistas visibles"
 
 #: editor.cc:3213
 msgid "Snap/Grid Units"
