@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: gtk2_ardour\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-25 23:52+0200\n"
-"PO-Revision-Date: 2016-07-27 21:36+0100\n"
+"PO-Revision-Date: 2016-07-27 21:44+0100\n"
 "Last-Translator: Pablo Fernández <pablo.fbus@gmail.com>\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -9463,13 +9463,11 @@ msgstr ""
 msgid "L:%3d R:%3d"
 msgstr ""
 
-# Aquí estaaba panorámica, pero pan se entiende perfectamente y es mucho más corto
 #: mono_panner.cc:203 panner2d.cc:276 stereo_panner.cc:252
 #: stereo_panner.cc:275
 msgid "Panner|L"
 msgstr ""
 
-# Aquí estaaba panorámica, pero pan se entiende perfectamente y es mucho más corto
 #: mono_panner.cc:220 panner2d.cc:277 stereo_panner.cc:250
 #: stereo_panner.cc:277
 msgid "Panner|R"
